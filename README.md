@@ -1,5 +1,4 @@
-# Benjamin Guibert
-## Software Engineer
+# Benjamin Guibert — *Software Engineer*
 
 ### :bust_in_silhouette: Who am I?
 
