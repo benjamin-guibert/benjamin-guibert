@@ -6,4 +6,6 @@ I’ve been into computers since my teenage years, as a high-tech enthusiast. I 
 
 ## :link: Links
 
+- [Personal website](https://bguibert.com)
+- [Instagram](https://www.instagram.com/bgu.604)
 - [LinkedIn](https://www.linkedin.com/in/bguibert/)
