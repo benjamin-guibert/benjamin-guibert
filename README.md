@@ -1,6 +1,6 @@
 # Benjamin Guibert
 
-Minimalist Traveler & Software Engineer
+Minimalist Nomad & Software Engineer
 
 - [Personal website](https://bguibert.com)
 - [Instagram](https://www.instagram.com/bgu.604)
